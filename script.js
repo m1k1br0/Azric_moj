@@ -4,7 +4,7 @@ function provera(){
     let rezultat = document.getElementById("mudja")
 
     if ((inputValue === "miki")) {
-        rezultat.innerText = '100%';
+        rezultat.innerText = '∞';
       } else {
         rezultat.innerText = '0%';
     }
